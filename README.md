@@ -1,2 +1,2 @@
 # ProstateRecurrencePrediction
-A convolutional neural network trained for prostate cancer recurrence prediction on CPCTR data. The patch sampling code is also included in the folder.
+Code for convolutional neural network based prostate cancer recurrence prediction (implementation of our SPIE Medical Imaging paper). This algorithm uses CNNs in a regression framework for segmenting nuclei from H&E stained tissue images using a distance transform based approach.
